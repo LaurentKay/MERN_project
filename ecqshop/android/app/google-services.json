@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "381752595839",
+    "project_id": "circuitmaster-73316",
+    "storage_bucket": "circuitmaster-73316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381752595839:android:8206849bd4412f9e34364a",
+        "android_client_info": {
+          "package_name": "com.circuitmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381752595839-6eeo9elt0heloa0gdeqo9iluo4rvj695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHNwLeylWfg8VjQM143u7pwIt69r0iZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381752595839-6eeo9elt0heloa0gdeqo9iluo4rvj695.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381752595839:android:e38b923f0dfd99fa34364a",
+        "android_client_info": {
+          "package_name": "com.ecqshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381752595839-6eeo9elt0heloa0gdeqo9iluo4rvj695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHNwLeylWfg8VjQM143u7pwIt69r0iZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381752595839-6eeo9elt0heloa0gdeqo9iluo4rvj695.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
